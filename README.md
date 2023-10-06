@@ -1,1 +1,1 @@
-Script Python poara extrair dados de empresas do site casadosdados.com, o scrip extrai e salva as informações por meio de API.
+Script Python para extrair dados de empresas do site casadosdados.com, o script extrai e salva as informações por meio de API.
